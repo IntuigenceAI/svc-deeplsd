@@ -18,5 +18,3 @@ h5py
 flow_vis
 jupyter
 seaborn
-
-./third_party/pytlsd
